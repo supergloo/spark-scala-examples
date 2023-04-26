@@ -1,4 +1,5 @@
-#Spark Transformatino Examples
+
+## Spark Transformation Examples
 
 The following examples of Spark transformations are taken from the tutorial [Spark Transformations in Scala Tutorial](https://supergloo.com/spark-scala/spark-transformations)
 
