@@ -1,6 +1,6 @@
 #Spark Transformatino Examples
 
-The following examples of Spark transformations are taken from the tutorial [Spark Transformations in Scala Tutorial](https://supergloo.com/spark/spark-transformations)
+The following examples of Spark transformations are taken from the tutorial [Spark Transformations in Scala Tutorial](https://supergloo.com/spark-scala/spark-transformations)
 
 ```scala
 scala> val data = spark.sparkContext.parallelize(Seq(("apple", 1), ("banana", 2), ("apple", 3), ("banana", 4), ("orange", 5)))
